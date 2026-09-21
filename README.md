@@ -1,10 +1,5 @@
 # Trabalho_GameZone_Retro
 
-
-# GameZone Retro
-
-Página promocional de uma loja fictícia especializada em jogos e consoles clássicos.
-
 -----
 
 
