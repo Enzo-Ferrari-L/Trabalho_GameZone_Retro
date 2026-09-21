@@ -59,8 +59,7 @@ Com este projeto, foi possível praticar:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Enzo Ferrari Lima** como atividade prática de HTML 
-no SENAI JACOB LAFER.
+Desenvolvido por **Enzo Ferrari Lima** como atividade prática de HTML no SENAI JACOB LAFER.
 ```
 
-Se quiser deixar com uma cara mais de **README de projeto escolar/profissional**, eu usaria esse modelo porque fica bem organizado sem parecer exagerado.
+
