@@ -5,6 +5,9 @@
 
 Página promocional de uma loja fictícia especializada em jogos e consoles clássicos.
 
+-----
+
+
 ##  Sobre o Projeto
 
 O **GameZone Retro** foi desenvolvido como parte de um mini desafio de **HTML**, com o objetivo de praticar os principais conceitos de estruturação de páginas web.
@@ -15,6 +18,7 @@ A página apresenta uma loja fictícia de jogos retrô, contendo informações s
 
 Criar uma página HTML simples, organizada e funcional, utilizando os principais elementos aprendidos durante as aulas.
 
+-----
 
 ##  Recursos Implementados
 
@@ -26,6 +30,8 @@ Criar uma página HTML simples, organizada e funcional, utilizando os principais
 - Emojis para personalização da página
 - Estrutura básica de HTML
 
+----------
+
 ##  Conteúdo da Página
 
 A loja apresenta alguns consoles clássicos, como:
@@ -35,6 +41,7 @@ A loja apresenta alguns consoles clássicos, como:
 - Sega Genesis
 - Atari 2600
 
+------------
 
 ##  Aprendizados
 
@@ -47,6 +54,8 @@ Com este projeto, foi possível praticar:
 - Criação de links
 - Criação de tabelas
 - Formatação de textos
+- 
+----------
 
 ## 👨‍💻 Autor
 
